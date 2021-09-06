@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 897fbd0d7d9020f4eb2e70b8b6ce8d92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - KiwiFruit: {instanceID: 0}
+  - shootPoint: {instanceID: 0}
+  - addedKiwi: {fileID: 8300000, guid: 79180f511d89441b9aa23ccae1992fe0, type: 3}
+  - maxKiwi: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
